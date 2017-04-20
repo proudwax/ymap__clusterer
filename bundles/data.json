@@ -1,0 +1,4630 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1372,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Художников пр-т,14",
+                "coordinates":[
+                    60.038488,
+                    30.344623
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1829,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Просвещения, пр-т., д. 30, корп. 4",
+                "coordinates":[
+                    60.054949,
+                    30.328786
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1651,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Испытателей пр-т, 35 литер А ТЦ \"Орион\"",
+                "coordinates":[
+                    60.008428,
+                    30.262607
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1377,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Комендантский пр,33",
+                "coordinates":[
+                    60.021631,
+                    30.243796
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1390,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Колпино, ул.Тверская, д.36/9",
+                "coordinates":[
+                    59.740534,
+                    30.611324
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1373,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Наличная, ул., 42",
+                "coordinates":[
+                    59.95124,
+                    30.232226
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1552,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Котина, ул., д. 2, корп. 3, лит. А",
+                "coordinates":[
+                    59.856438,
+                    30.209292
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2122,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Пятилеток 2, пр-т., лит а",
+                "coordinates":[
+                    59.919581,
+                    30.465186
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1379,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Металлистов, пр-т, д.100 А",
+                "coordinates":[
+                    59.969443,
+                    30.405313
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1375,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Ленинский пр-т, д.122, корп.А",
+                "coordinates":[
+                    59.852592,
+                    30.26011
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1384,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Ярослава Гашека, ул., д.6, корп.2",
+                "coordinates":[
+                    59.833253,
+                    30.391551
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1726,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Колонтай ул., д. 31, корп. 1",
+                "coordinates":[
+                    59.922061,
+                    30.482937
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1447,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Народная, ул., д.32",
+                "coordinates":[
+                    59.881805,
+                    30.468142
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1705,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Стачек пр-т, д. 39",
+                "coordinates":[
+                    59.887368,
+                    30.268114
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2135,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Измайловский пр-т, д. 12",
+                "coordinates":[
+                    59.912639,
+                    30.308268
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1388,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Седова, ул., д.11",
+                "coordinates":[
+                    59.899803,
+                    30.40101
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1385,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Садовая,ул., д.42",
+                "coordinates":[
+                    59.925723,
+                    30.315913
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2255,
+            "geometry":{
+                "type":"Point",
+                "adress":"Мончегорск, Кондрикова ул., д.4",
+                "coordinates":[
+                    67.924056,
+                    32.933927
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1804,
+            "geometry":{
+                "type":"Point",
+                "adress":"Выборг, ул. Железнодорожная, д.10",
+                "coordinates":[
+                    60.714919,
+                    28.753635
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2121,
+            "geometry":{
+                "type":"Point",
+                "adress":"Мурманск, пр-т Кольский, д. 18",
+                "coordinates":[
+                    68.946416,
+                    33.098966
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1790,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сортавала, ул. Промышленная, д. 32",
+                "coordinates":[
+                    61.706628,
+                    30.696484
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2110,
+            "geometry":{
+                "type":"Point",
+                "adress":"Санкт-Петербург, Антонова-Овсеенко ул., д. 20 А",
+                "coordinates":[
+                    59.909797,
+                    30.47222
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3246,
+            "geometry":{
+                "type":"Point",
+                "adress":"Петрозаводск, Мерецкого, 11 ТЦ \"Тетрис\"",
+                "coordinates":[
+                    61.789036,
+                    34.359688
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1141,
+            "geometry":{
+                "type":"Point",
+                "adress":"Архангельск, Попова, ул., д. 16",
+                "coordinates":[
+                    64.546665,
+                    40.521098
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3435,
+            "geometry":{
+                "type":"Point",
+                "adress":"г. Петрозаводск, просп. Лесной, дом. 47",
+                "coordinates":[
+                    61.776199,
+                    34.30861
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1868,
+            "geometry":{
+                "type":"Point",
+                "adress":"Вологда, ул. Карла Маркса, д. 105, ТЦ \"Апельсин\"",
+                "coordinates":[
+                    59.217015,
+                    39.932351
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1151,
+            "geometry":{
+                "type":"Point",
+                "adress":"Вологда, Мира ул., 22",
+                "coordinates":[
+                    59.219773,
+                    39.885881
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1383,
+            "geometry":{
+                "type":"Point",
+                "adress":"Череповец, ул.Советский пр-т д.56",
+                "coordinates":[
+                    59.125522,
+                    37.931623
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1612,
+            "geometry":{
+                "type":"Point",
+                "adress":"Архангельск, Тимме, ул., д.4, кор.5 (ТЦ\"Петровский\")",
+                "coordinates":[
+                    64.542587,
+                    40.569329
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1872,
+            "geometry":{
+                "type":"Point",
+                "adress":"Котлас, ул. Невского, д. 11, ТЦ \"Кристалл\"",
+                "coordinates":[
+                    61.249989,
+                    46.63222
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1887,
+            "geometry":{
+                "type":"Point",
+                "adress":"Великий Устюг, ул. Гледенская, д. 61, ТЦ \"Прокопьевский\"",
+                "coordinates":[
+                    60.772651,
+                    46.272373
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2119,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волхов, ул. Расстанная, 13/1",
+                "coordinates":[
+                    59.925137,
+                    32.317656
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2210,
+            "geometry":{
+                "type":"Point",
+                "adress":"Псков, Рижский проспект, д. 26",
+                "coordinates":[
+                    57.817064,
+                    28.30878
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1711,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сыктывкар, ул. Космонавтов, д. 4 ТЦ \"Эжва\"",
+                "coordinates":[
+                    61.801316,
+                    50.746863
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1689,
+            "geometry":{
+                "type":"Point",
+                "adress":"Павлово, ул. Красноармейская, 33",
+                "coordinates":[
+                    55.96474,
+                    43.065801
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1869,
+            "geometry":{
+                "type":"Point",
+                "adress":"Луга, ул. Володарского, д. 30 А",
+                "coordinates":[
+                    52.259919,
+                    46.422149
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1482,
+            "geometry":{
+                "type":"Point",
+                "adress":"Кириши, ул.Декабристов Бестужевых, д.4Д",
+                "coordinates":[
+                    59.446991,
+                    32.020951
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1217,
+            "geometry":{
+                "type":"Point",
+                "adress":"Н.Новгород, ул. Плотникова, д.5",
+                "coordinates":[
+                    56.258853,
+                    43.853273
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1402,
+            "geometry":{
+                "type":"Point",
+                "adress":"Н.Новгород, ул. Гордеевская, д.2 А",
+                "coordinates":[
+                    56.324256,
+                    43.945961
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1608,
+            "geometry":{
+                "type":"Point",
+                "adress":"Н.Новгород, Богородского ул., д. 7 стр. 2.3, ТЦ \"Отличный\"",
+                "coordinates":[
+                    56.294566,
+                    44.044174
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1757,
+            "geometry":{
+                "type":"Point",
+                "adress":"Н.Новгород, ул.Коминтерна д.11",
+                "coordinates":[
+                    56.339961,
+                    43.884265
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3279,
+            "geometry":{
+                "type":"Point",
+                "adress":"Казань, Мавлютова ул., д. 45",
+                "coordinates":[
+                    55.744617,
+                    49.192832
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1771,
+            "geometry":{
+                "type":"Point",
+                "adress":"Арзамас, ул. Гостиный ряд, д. 1,3,5",
+                "coordinates":[
+                    55.385791,
+                    43.815903
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2219,
+            "geometry":{
+                "type":"Point",
+                "adress":"Н.Новгород, пр-т Октября, д. 2 А",
+                "coordinates":[
+                    56.243009,
+                    43.864996
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1173,
+            "geometry":{
+                "type":"Point",
+                "adress":"Казань, Декабристов ул., д. 160/40",
+                "coordinates":[
+                    55.83429,
+                    49.081064
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1456,
+            "geometry":{
+                "type":"Point",
+                "adress":"Киров, Свободы ул., д.128, ТЦ \"Зенит\"",
+                "coordinates":[
+                    58.589265,
+                    49.678524
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1693,
+            "geometry":{
+                "type":"Point",
+                "adress":"Кирово-Чепецк, ул. Луначарского, д. 9",
+                "coordinates":[
+                    58.54674,
+                    50.056032
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1183,
+            "geometry":{
+                "type":"Point",
+                "adress":"Чебоксары, ул.Павлова, д. 22",
+                "coordinates":[
+                    56.086168,
+                    47.297081
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1319,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ярославль, пр-т Авиаторов д.88",
+                "coordinates":[
+                    57.653459,
+                    39.941532
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1304,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ярославль, Ленинградский пр-т 65а",
+                "coordinates":[
+                    57.682341,
+                    39.788729
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1687,
+            "geometry":{
+                "type":"Point",
+                "adress":"Чебоксары, ул. Тракторостроителей, д.9",
+                "coordinates":[
+                    56.146247,
+                    47.250153
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2300,
+            "geometry":{
+                "type":"Point",
+                "adress":"Кострома, Давыдовский-3, д. 32, ТЦ \"Авакадо\"",
+                "coordinates":[
+                    57.741165,
+                    41.004823
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1136,
+            "geometry":{
+                "type":"Point",
+                "adress":"Генерала Кузнецова,д.20, г. Москва (Жулебино)",
+                "coordinates":[
+                    55.686558,
+                    37.856138
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+
+            "id":1101,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волгоградский пр-т, д.117, г. Москва ( м-н Кузьминки)",
+                "coordinates":[
+                    55.706218,
+                    37.763611
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1309,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Одинцово ул. Свободы д.2",
+                "coordinates":[
+                    55.673519,
+                    37.280902
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1305,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Сергиев Посад, Вокзальная пл., д.1, ТЦ Преображенский",
+                "coordinates":[
+                    56.302787,
+                    38.135873
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1339,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ярцевская, д. 22, корп. 1, г. Москва",
+                "coordinates":[
+                    55.738363,
+                    37.413484
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1484,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Люберцы, Октябрьский пр-т, д.186",
+                "coordinates":[
+                    55.677707,
+                    37.894568
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1805,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Одинцово, ул. Маковского, д. 2 а, ТЦ \"Союзный\"",
+                "coordinates":[
+                    55.670732,
+                    37.280956
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3187,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Реутов , 2-й км. МКАД, д. 2, ТРК \"РИО\"",
+                "coordinates":[
+                    55.763802,
+                    37.84499
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1535,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Фрязино, ул. Московская, д.2",
+                "coordinates":[
+                    55.957005,
+                    38.052932
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1126,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Быково, ул.Театральная, д.3 (м-н Жуковский)",
+                "coordinates":[
+                    55.610072,
+                    38.077294
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1333,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Пушкино,ул. Лермонтова, д. 2",
+                "coordinates":[
+                    56.013648,
+                    37.841828
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1499,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Мытищи, Олимпийский пр-т, вл.13, стр.1",
+                "coordinates":[
+                    55.920285,
+                    37.762228
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1505,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Томилино, ул.Гаршина, д.3В",
+                "coordinates":[
+                    55.661222,
+                    37.950156
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1352,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Железнодорожный,Пролетарская, д. 1/2",
+                "coordinates":[
+                    55.749623,
+                    38.009624
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1606,
+            "geometry":{
+                "type":"Point",
+                "adress":"Балашиха,МО,ул.Свердлова,д.33,корп.А",
+                "coordinates":[
+                    55.828379,
+                    37.97079
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1106,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Реутов, ул. Южная, д. 10 \"А\"",
+                "coordinates":[
+                    55.747155,
+                    37.862139
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1355,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Щелково, ул.Талсинская, д.6а",
+                "coordinates":[
+                    55.92715,
+                    37.990373
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1327,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Королёв, пр-т Космонавтов, д. 34Б",
+                "coordinates":[
+                    55.909383,
+                    37.866073
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1116,
+            "geometry":{
+                "type":"Point",
+                "adress":"Братиславская ул, д.12, стр. 1, г. Москва",
+                "coordinates":[
+                    55.659779,
+                    37.752697
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1329,
+            "geometry":{
+                "type":"Point",
+                "adress":"Рязанский пр-т, д.99А, г. Москва",
+                "coordinates":[
+                    55.712578,
+                    37.816486
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1347,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Раменское, ул.Гурьева., д.27",
+                "coordinates":[
+                    55.564083,
+                    38.234041
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1342,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Королев,Исаева, д. 6а",
+                "coordinates":[
+                    55.922262,
+                    37.865202
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1507,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Сергиев Посад, пр-т Красной Армии, д. 212",
+                "coordinates":[
+                    56.321855,
+                    38.145225
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1564,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Климовск, ул. Железнодорожная, д. 1, ТЦ \"Петрица\"",
+                "coordinates":[
+                    55.35769,
+                    37.525908
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1307,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Троицк, мкр.\"В\", д.42",
+                "coordinates":[
+                    55.48626,
+                    37.305264
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1114,
+            "geometry":{
+                "type":"Point",
+                "adress":"Синельниковская, д.47, г. Москва( Южное Бутово № 145)",
+                "coordinates":[
+                    55.542462,
+                    37.572414
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3251,
+            "geometry":{
+                "type":"Point",
+                "adress":"Профсоюзная, д. 129 А ТРЦ \"Принц-Плаза\"",
+                "coordinates":[
+                    55.61813,
+                    37.507484
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1343,
+            "geometry":{
+                "type":"Point",
+                "adress":"Адмирала Ушакова,д.11, г. Москва",
+                "coordinates":[
+                    55.546083,
+                    37.549184
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2215,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Подольск, пл. Вокзальная, д. 8, ТЦ \"Вокзальный\"",
+                "coordinates":[
+                    55.432776,
+                    37.565111
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1283,
+            "geometry":{
+                "type":"Point",
+                "adress":"Гарибальди ул., д. 25/1 г. Москва",
+                "coordinates":[
+                    55.670539,
+                    37.556217
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1102,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сходненская, д. 35/1, г. Москва",
+                "coordinates":[
+                    55.848463,
+                    37.439005
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1313,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Нахабино, ул. Институтская, 17",
+                "coordinates":[
+                    55.84119,
+                    37.18056
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1128,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Подольск, ул. Советская, д.33/44",
+                "coordinates":[
+                    55.431627,
+                    37.55063
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1294,
+            "geometry":{
+                "type":"Point",
+                "adress":"1-я Квесисская, д.18, г. Москва",
+                "coordinates":[
+                    55.794239,
+                    37.57872
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1108,
+            "geometry":{
+                "type":"Point",
+                "adress":"Бескудниковский б-р, д. 12 стр. 1, г. Москва",
+                "coordinates":[
+                    55.862348,
+                    37.563179
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1565,
+            "geometry":{
+                "type":"Point",
+                "adress":"Дедовск,МО.Ногина,д.4",
+                "coordinates":[
+                    55.861237,
+                    37.127991
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1289,
+            "geometry":{
+                "type":"Point",
+                "adress":"Народного Ополчения, д. 23, к. 1, г. Москва",
+                "coordinates":[
+                    55.779084,
+                    37.478441
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1295,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Лобня, ул. Ленина, д.9",
+                "coordinates":[
+                    56.01235,
+                    37.482053
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1321,
+            "geometry":{
+                "type":"Point",
+                "adress":"Маршала Малиновского, д. 8, г. Москва",
+                "coordinates":[
+                    55.792645,
+                    37.493587
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1105,
+            "geometry":{
+                "type":"Point",
+                "adress":"Декабристов, д.21 Г , г. Москва( Отрадное)",
+                "coordinates":[
+                    55.863646,
+                    37.607403
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1100,
+            "geometry":{
+                "type":"Point",
+                "adress":"Таллинская ул., д.26, г. Москва (Строгино)",
+                "coordinates":[
+                    55.799456,
+                    37.407852
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2348,
+            "geometry":{
+                "type":"Point",
+                "adress":"Старый Петровско-Разумовский пр-д, д. 1/23, стр 2, ТЦ \"Вымпел\"",
+                "coordinates":[
+                    55.800767,
+                    37.563377
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3104,
+            "geometry":{
+                "type":"Point",
+                "adress":"Дмитровское ш., д. 89, г. Москва (XL)",
+                "coordinates":[
+                    55.863752,
+                    37.544665
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1137,
+            "geometry":{
+                "type":"Point",
+                "adress":"Каширское шоссе, д.26, корп. 2, г. Москва",
+                "coordinates":[
+                    55.653512,
+                    37.648169
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1113,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Красногорск, ул.Ленина, д.39 А",
+                "coordinates":[
+                    55.832278,
+                    37.303836
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1135,
+            "geometry":{
+                "type":"Point",
+                "adress":"Шипиловский пр., д.39/1, г. Москва",
+                "coordinates":[
+                    55.611302,
+                    37.696741
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1610,
+            "geometry":{
+                "type":"Point",
+                "adress":"Андропова пр-т, д. 36, Москва г.",
+                "coordinates":[
+                    55.675885,
+                    37.66203
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1288,
+            "geometry":{
+                "type":"Point",
+                "adress":"Открытое шоссе, д. 9, стр. 1, г. Москва",
+                "coordinates":[
+                    55.815413,
+                    37.738045
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1398,
+            "geometry":{
+                "type":"Point",
+                "adress":"Боровское ш-е, д.6, ТЦ Солнечный Рай, г. Москва",
+                "coordinates":[
+                    55.658794,
+                    37.401905
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1115,
+            "geometry":{
+                "type":"Point",
+                "adress":"Боровское ш., д. 51 стр. 1, г. Москва (м-н Ново-Переделкино)",
+                "coordinates":[
+                    55.637078,
+                    37.353189
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1812,
+            "geometry":{
+                "type":"Point",
+                "adress":"Солнцево, ул.Наро-Фоминская, д.17, г. Москва",
+                "coordinates":[
+                    55.65625,
+                    37.38481
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1110,
+            "geometry":{
+                "type":"Point",
+                "adress":"Новогиреевская, д. 20/34, корп. 1, г. Москва ( Новогиреево)",
+                "coordinates":[
+                    55.759111,
+                    37.794217
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1338,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Наро-Фоминск, ул. Маршала Жукова, 13А",
+                "coordinates":[
+                    55.382319,
+                    36.721422
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1316,
+            "geometry":{
+                "type":"Point",
+                "adress":"Щербаковская,д.5а, г. Москва",
+                "coordinates":[
+                    55.782977,
+                    37.725415
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1449,
+            "geometry":{
+                "type":"Point",
+                "adress":"Каховка д.29 корп.А, г.Москва",
+                "coordinates":[
+                    55.656336,
+                    37.569584
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2295,
+            "geometry":{
+                "type":"Point",
+                "adress":"Большая Черкизовская, д. 125",
+                "coordinates":[
+                    55.802482,
+                    37.74366
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1874,
+            "geometry":{
+                "type":"Point",
+                "adress":"Борисовские пруды ул., д. 26, ТЦ \"Ключевой\"",
+                "coordinates":[
+                    55.639959,
+                    37.758204
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1818,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Наро-Фоминск, ул. Московская, д. 8",
+                "coordinates":[
+                    55.382155,
+                    36.7475
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1351,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Домодедово,Каширское ш.,д.7",
+                "coordinates":[
+                    55.448541,
+                    37.764618
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1346,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Ногинск, ул.Соборная, д.12",
+                "coordinates":[
+                    55.853213,
+                    38.441938
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1549,
+            "geometry":{
+                "type":"Point",
+                "adress":"Муром, Советская ул., д. 29",
+                "coordinates":[
+                    55.577241,
+                    42.049555
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1830,
+            "geometry":{
+                "type":"Point",
+                "adress":"Владимир, ул. Безыменского, д 9",
+                "coordinates":[
+                    56.167103,
+                    40.444669
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1658,
+            "geometry":{
+                "type":"Point",
+                "adress":"Гусь-Хрустальный, ул. Калинина, д. 28 б",
+                "coordinates":[
+                    55.615665,
+                    40.667847
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2118,
+            "geometry":{
+                "type":"Point",
+                "adress":"Кимры, ул. Володарского, д. 35 литер А, ТЦ \"Олимп\"",
+                "coordinates":[
+                    56.87625,
+                    37.361705
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3321,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тверь, Цанова бл-р, д. 8, ТЦ \"Вавилон\"",
+                "coordinates":[
+                    56.83001,
+                    35.917565
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1618,
+            "geometry":{
+                "type":"Point",
+                "adress":"Александров, Ленина, ул., д.13",
+                "coordinates":[
+                    56.397873,
+                    38.718107
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3373,
+            "geometry":{
+                "type":"Point",
+                "adress":"Обнинск, Красных Зорь ул., д.16",
+                "coordinates":[
+                    55.095529,
+                    36.618745
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1879,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ефремов, Тульское ш., д. 6 Б",
+                "coordinates":[
+                    53.148973,
+                    38.088137
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1244,
+            "geometry":{
+                "type":"Point",
+                "adress":"Смоленск, Гагарина пр-т . 10/2",
+                "coordinates":[
+                    54.774862,
+                    32.045664
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1167,
+            "geometry":{
+                "type":"Point",
+                "adress":"Калуга, Дзержинского ул., д. 38",
+                "coordinates":[
+                    54.512978,
+                    36.252528
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2356,
+            "geometry":{
+                "type":"Point",
+                "adress":"Узловая, Маяковского ул., д. 48",
+                "coordinates":[
+                    53.979372,
+                    38.157828
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2333,
+            "geometry":{
+                "type":"Point",
+                "adress":"г. Гагарин, Смоленская обл., ул. Ленина, дом. 5а",
+                "coordinates":[
+                    55.553855,
+                    34.998588
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3236,
+            "geometry":{
+                "type":"Point",
+                "adress":"Курск, К. Маркса ул., д. 59",
+                "coordinates":[
+                    51.758249,
+                    36.188407
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1220,
+            "geometry":{
+                "type":"Point",
+                "adress":"Орёл, Металлургов ул., д.20а",
+                "coordinates":[
+                    53.012331,
+                    36.14491
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2154,
+            "geometry":{
+                "type":"Point",
+                "adress":"Орел, Наугорское шоссе, д. 76",
+                "coordinates":[
+                    52.988258,
+                    36.040939
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1393,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Ступино , Горького ул., д.26",
+                "coordinates":[
+                    54.891448,
+                    38.062607
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1318,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Серпухов, ул.Ворошилова д.109/6",
+                "coordinates":[
+                    54.918747,
+                    37.423914
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1747,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Кашира, ул. Советская, д. 18 , ТЦ \"Ока\"",
+                "coordinates":[
+                    54.835554,
+                    38.149788
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2324,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Коломна, ул.Октябрьской Революции,д. 366/2, ТЦ \"Максимум\"",
+                "coordinates":[
+                    55.082781,
+                    38.801067
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1322,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Чехов, ул. Молодежная, д. 7",
+                "coordinates":[
+                    55.154162,
+                    37.46953
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1314,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Воскресенск, ул.Советская, д. 4",
+                "coordinates":[
+                    55.319817,
+                    38.683729
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1566,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Волоколамск, ул. Волоколамская, д. 4, ТЦ \"Станционный смотрит",
+                "coordinates":[
+                    55.995549,
+                    35.932782
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1508,
+            "geometry":{
+                "type":"Point",
+                "adress":"Зеленоград, ул. Новокрюковская, корп. 1824",
+                "coordinates":[
+                    55.980679,
+                    37.169205
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1622,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Клин, пл.Советская, д.5",
+                "coordinates":[
+                    56.333973,
+                    36.734088
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3117,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Солнечногорск, ул. Почтовая, д.17/8 ТЦ Сенеж",
+                "coordinates":[
+                    56.184681,
+                    36.976579
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1395,
+            "geometry":{
+                "type":"Point",
+                "adress":"Зеленоград, ул. Новокрюковская, дом 9, г.Москва, ТД \"Крюково",
+                "coordinates":[
+                    55.980155,
+                    37.17173
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1834,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Павловский Посад, ул. Б. Покровская, д. 35, ТЦ \"СИТИ\"",
+                "coordinates":[
+                    55.773565,
+                    38.652791
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1334,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Павловский Посад, пер. Каляева, д. 1",
+                "coordinates":[
+                    55.776765,
+                    38.678689
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1354,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Шатура, пр-т Ильича, д. 30",
+                "coordinates":[
+                    55.575307,
+                    39.536347
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1130,
+            "geometry":{
+                "type":"Point",
+                "adress":"МО, г.Орехово-Зуево, Центральный б-р, д.5",
+                "coordinates":[
+                    55.803509,
+                    38.978475
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1438,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, Будёновский пр., д. 42/50",
+                "coordinates":[
+                    47.222696,
+                    39.706937
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1228,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, Ворошиловский пр-т,54/112",
+                "coordinates":[
+                    47.230694,
+                    39.715435
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1823,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, пр-кт 40-летия Победы, д. 85",
+                "coordinates":[
+                    47.239101,
+                    39.827284
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1229,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, Сельмаш пр-т, д.98/11",
+                "coordinates":[
+                    47.254381,
+                    39.76575
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1231,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, Темерницкая, ул., д. 58",
+                "coordinates":[
+                    47.218932,
+                    39.714402
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1189,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, Карасунская ул., д.86",
+                "coordinates":[
+                    45.027565,
+                    38.975223
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3319,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, Нагибина пр-т , д.17",
+                "coordinates":[
+                    47.247561,
+                    39.710961
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1397,
+            "geometry":{
+                "type":"Point",
+                "adress":"Батайск, ул.Кирова, д.28а",
+                "coordinates":[
+                    47.138425,
+                    39.749957
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1197,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, 40 лет Победы ул., д.144/4",
+                "coordinates":[
+                    45.055365,
+                    39.019735
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1193,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, Карасунский о-г, ул.Уральская д.156",
+                "coordinates":[
+                    45.03712,
+                    39.091124
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1198,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, Ставропольская ул., д. 84",
+                "coordinates":[
+                    45.018971,
+                    38.99663
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1440,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, Октябрьская ул., д.177",
+                "coordinates":[
+                    45.037222,
+                    38.969932
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3263,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, ул. Уральская, д. 79\\2",
+                "coordinates":[
+                    45.035413,
+                    39.04981
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1662,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснодар, Карасунский округ, ул. Крылатая, д. 2 ЦентрОбувь",
+                "coordinates":[
+                    45.011446,
+                    39.122529
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1825,
+            "geometry":{
+                "type":"Point",
+                "adress":"Павловская, ул. Горького, д. 285",
+                "coordinates":[
+                    46.135844,
+                    39.784408
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1882,
+            "geometry":{
+                "type":"Point",
+                "adress":"Кореновск, ул. Карла-Маркса, д. 318 Б",
+                "coordinates":[
+                    45.472798,
+                    39.427516
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1491,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тимашевск, Красная, ул., д.104",
+                "coordinates":[
+                    45.612372,
+                    38.933173
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1598,
+            "geometry":{
+                "type":"Point",
+                "adress":"Белореченск, Ленина ул., д.80",
+                "coordinates":[
+                    44.765614,
+                    39.870179
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1204,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сочи, Демократическая, Адлерский р-н 42",
+                "coordinates":[
+                    43.424948,
+                    39.926557
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1827,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ленинградская, ул. Советов, д. 29 ( Краснодарский край)",
+                "coordinates":[
+                    60.164466,
+                    30.539728
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1702,
+            "geometry":{
+                "type":"Point",
+                "adress":"Усть-Лабинск, Краснодарский край, ул.Ленина, д.43",
+                "coordinates":[
+                    45.210793,
+                    39.690848
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1408,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сочи, Лазаревское п. , ул.Калараш, д.111, ТЦ \"Павловский\"",
+                "coordinates":[
+                    43.910733,
+                    39.336993
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1437,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сочи, Курортный пр-т, д. 70",
+                "coordinates":[
+                    43.570093,
+                    39.738863
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1199,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сочи, Лесной переулок, д.27",
+                "coordinates":[
+                    43.585525,
+                    39.723062
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1643,
+            "geometry":{
+                "type":"Point",
+                "adress":"Дагомыс, ул.Армавирская, д.96а ТЦ \"Дарья\"",
+                "coordinates":[
+                    43.663232,
+                    39.651044
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1723,
+            "geometry":{
+                "type":"Point",
+                "adress":"Туапсе, ул. Гагарина, д.9",
+                "coordinates":[
+                    44.094999,
+                    39.078736
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1249,
+            "geometry":{
+                "type":"Point",
+                "adress":"Невинномысск,Революционая,д. 57, к. А",
+                "coordinates":[
+                    44.630788,
+                    41.943823
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1876,
+            "geometry":{
+                "type":"Point",
+                "adress":"Прохладный, ул. Ленина, д. 102-1",
+                "coordinates":[
+                    43.757666,
+                    44.015796
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1252,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тамбов, ул.Интернациональная д.36",
+                "coordinates":[
+                    52.720199,
+                    41.447746
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1251,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тамбов, ул. Советская, д. 178",
+                "coordinates":[
+                    52.740431,
+                    41.450729
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1727,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тамбов, ул. Шлихтера, д. 5 А",
+                "coordinates":[
+                    52.757411,
+                    41.411373
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1428,
+            "geometry":{
+                "type":"Point",
+                "adress":"Астрахань, Ногина, ул., д.1",
+                "coordinates":[
+                    46.347228,
+                    48.055026
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3407,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волгоград, Университетский пр-т, д. 107, ТРЦ \"Акварель\"",
+                "coordinates":[
+                    48.636564,
+                    44.436055
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1478,
+            "geometry":{
+                "type":"Point",
+                "adress":"Астрахань, Магистральная, ул., д. 29",
+                "coordinates":[
+                    46.413024,
+                    47.98493
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1139,
+            "geometry":{
+                "type":"Point",
+                "adress":"Астрахань, Анри Барбюса, ул. д. 17",
+                "coordinates":[
+                    46.362467,
+                    48.046195
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1140,
+            "geometry":{
+                "type":"Point",
+                "adress":"Астрахань, Минусинская, ул., д.8",
+                "coordinates":[
+                    46.358866,
+                    48.069749
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1817,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волгодонск, ул. Морская, д. 86",
+                "coordinates":[
+                    47.516861,
+                    42.158457
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1682,
+            "geometry":{
+                "type":"Point",
+                "adress":"Элиста, ул. Пушкина, д. 19",
+                "coordinates":[
+                    46.310208,
+                    44.269893
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1149,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волгоград, Героев Сталинграда пр-т, д.37",
+                "coordinates":[
+                    48.514153,
+                    44.544428
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1235,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ростов-на-Дону, Базарная пл., д. 11",
+                "coordinates":[
+                    47.233105,
+                    39.761941
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1150,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волгоград, Ополченская ул., д. 22",
+                "coordinates":[
+                    48.799558,
+                    44.593754
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1454,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волгоград, Краснополянская ул., д.16",
+                "coordinates":[
+                    48.762377,
+                    44.479021
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1678,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ессентуки, ул.Кисловодская, д. 24В",
+                "coordinates":[
+                    44.041286,
+                    42.851238
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1405,
+            "geometry":{
+                "type":"Point",
+                "adress":"Волжский, Александрова ул., д.18А, ТЦ \"Волга Молл\"",
+                "coordinates":[
+                    48.772425,
+                    44.800322
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1529,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ставрополь, ул. Доваторцев, д. 61, ОРТЦ \"Ставрополь\"",
+                "coordinates":[
+                    45.004952,
+                    41.925919
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1846,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ставрополь, ул. Кулакова, д. 29",
+                "coordinates":[
+                    45.044502,
+                    41.969065
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1791,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ставрополь, ул. Ленина, д. 474",
+                "coordinates":[
+                    45.037681,
+                    41.915535
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1245,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ставрополь, ул. Доваторцев, д.25",
+                "coordinates":[
+                    45.022558,
+                    41.933061
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1248,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ставрополь, ул. Пирогова, д.15/2",
+                "coordinates":[
+                    45.012631,
+                    41.913792
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1145,
+            "geometry":{
+                "type":"Point",
+                "adress":"Брянск, 50 лет Октября б-р, д.8",
+                "coordinates":[
+                    53.306885,
+                    34.304765
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2234,
+            "geometry":{
+                "type":"Point",
+                "adress":"Светлоград, площадь 50 лет Октября, д. 25 А",
+                "coordinates":[
+                    45.339199,
+                    42.84583
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1730,
+            "geometry":{
+                "type":"Point",
+                "adress":"Михайловск, ул. Октябрьская, д. 327 А",
+                "coordinates":[
+                    45.128999,
+                    42.032864
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1363,
+            "geometry":{
+                "type":"Point",
+                "adress":"Липецк, Победы пр-кт, д.108 А",
+                "coordinates":[
+                    52.586891,
+                    39.548321
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2220,
+            "geometry":{
+                "type":"Point",
+                "adress":"Клинцы, ул. Октябрьская, д. 5",
+                "coordinates":[
+                    52.747044,
+                    32.237975
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1366,
+            "geometry":{
+                "type":"Point",
+                "adress":"Липецк, Победы пл., д.6",
+                "coordinates":[
+                    52.604609,
+                    39.572333
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3172,
+            "geometry":{
+                "type":"Point",
+                "adress":"Белгород, Народный бульвар, д.82",
+                "coordinates":[
+                    50.601109,
+                    36.588148
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1410,
+            "geometry":{
+                "type":"Point",
+                "adress":"Железногорск, ул.Ленина, д.57, ТРК \"Европа\"",
+                "coordinates":[
+                    56.262127,
+                    93.537187
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1616,
+            "geometry":{
+                "type":"Point",
+                "adress":"Лиски, Коммунистическая ул., д.21",
+                "coordinates":[
+                    50.982251,
+                    39.503397
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1851,
+            "geometry":{
+                "type":"Point",
+                "adress":"Нововоронеж, ул. Космонавтов, д. 29 Б",
+                "coordinates":[
+                    51.315322,
+                    39.20698
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1361,
+            "geometry":{
+                "type":"Point",
+                "adress":"Воронеж, Моисеева ул.,1",
+                "coordinates":[
+                    51.655015,
+                    39.185689
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2172,
+            "geometry":{
+                "type":"Point",
+                "adress":"Воронеж, Ленинский пр-т, д.174 П (ЦентрОбувь)",
+                "coordinates":[
+                    51.697198,
+                    39.272664
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1357,
+            "geometry":{
+                "type":"Point",
+                "adress":"Воронеж, Олеко Дундича ул., д.17",
+                "coordinates":[
+                    51.651187,
+                    39.126437
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3136,
+            "geometry":{
+                "type":"Point",
+                "adress":"Воронеж, Победы б-р, вл. 23Б, ТЦ \"Арена\"",
+                "coordinates":[
+                    51.711414,
+                    39.158569
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2208,
+            "geometry":{
+                "type":"Point",
+                "adress":"Шебекино, ул. Московская, д. 16 А",
+                "coordinates":[
+                    50.413954,
+                    36.894491
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1358,
+            "geometry":{
+                "type":"Point",
+                "adress":"Воронеж, Мира ул.,1",
+                "coordinates":[
+                    51.678588,
+                    39.207959
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1458,
+            "geometry":{
+                "type":"Point",
+                "adress":"Белгород, Преображенская ул., д.86",
+                "coordinates":[
+                    50.599657,
+                    36.584941
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1781,
+            "geometry":{
+                "type":"Point",
+                "adress":"Новошахтинск, ул. Базарная, д. 29",
+                "coordinates":[
+                    47.753982,
+                    39.933079
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1195,
+            "geometry":{
+                "type":"Point",
+                "adress":"Шахты, ул. Шевченко, д. 135",
+                "coordinates":[
+                    47.707485,
+                    40.212293
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1191,
+            "geometry":{
+                "type":"Point",
+                "adress":"Каменск-Шахтинский К.Маркса,67",
+                "coordinates":[
+                    48.321917,
+                    40.271106
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1663,
+            "geometry":{
+                "type":"Point",
+                "adress":"Шахты, ул. Шишкина, д. 162",
+                "coordinates":[
+                    47.725374,
+                    40.225975
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2367,
+            "geometry":{
+                "type":"Point",
+                "adress":"Донецк, Гагарина ул, д. 39",
+                "coordinates":[
+                    47.993825,
+                    37.860369
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1731,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ливны, ул. Горького, д. 2",
+                "coordinates":[
+                    52.429064,
+                    37.60487
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2361,
+            "geometry":{
+                "type":"Point",
+                "adress":"Каменск-Шахтинский, Ворошилова ул., д. 147В",
+                "coordinates":[
+                    48.309561,
+                    40.290303
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2113,
+            "geometry":{
+                "type":"Point",
+                "adress":"Темрюк, ул. Калинина, д. 1",
+                "coordinates":[
+                    45.276678,
+                    37.395599
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1666,
+            "geometry":{
+                "type":"Point",
+                "adress":"Славянск-на-Кубани, ул. Ковтюха, 120а",
+                "coordinates":[
+                    45.256284,
+                    38.112418
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1200,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ейск, ул.Мира/Одесская, д.133/54",
+                "coordinates":[
+                    46.703997,
+                    38.275031
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1471,
+            "geometry":{
+                "type":"Point",
+                "adress":"Армавир, Халтурина, ул., д.88",
+                "coordinates":[
+                    44.995813,
+                    41.134728
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1826,
+            "geometry":{
+                "type":"Point",
+                "adress":"Каневская, ул. Горького, д. 59 (Краснодарский край)",
+                "coordinates":[
+                    46.083686,
+                    38.971828
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2188,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ижевск, 10 лет Октября, д. 53 ТЦ \"Эльгрин\"",
+                "coordinates":[
+                    56.872595,
+                    53.227103
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1720,
+            "geometry":{
+                "type":"Point",
+                "adress":"Глазов, пл. Свободы, д. 1 ТЦ \"Пассаж\"",
+                "coordinates":[
+                    58.140226,
+                    52.677316
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1170,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ижевск, Удмуртская ул.,д.304",
+                "coordinates":[
+                    56.858676,
+                    53.222845
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1555,
+            "geometry":{
+                "type":"Point",
+                "adress":"Пермь, 1905 года, д.6 корп.А",
+                "coordinates":[
+                    58.037265,
+                    56.316194
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1707,
+            "geometry":{
+                "type":"Point",
+                "adress":"Пермь, ул. Хасана, д. 105 ТЦ \"Шоколад\"",
+                "coordinates":[
+                    57.966553,
+                    56.263633
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2189,
+            "geometry":{
+                "type":"Point",
+                "adress":"Краснокамск, пр-т Маяковского, д. 7А",
+                "coordinates":[
+                    58.082735,
+                    55.757127
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1801,
+            "geometry":{
+                "type":"Point",
+                "adress":"Пермь, ул. Стахановская, 40 А, ТЦ \"Аврора\"",
+                "coordinates":[
+                    57.986769,
+                    56.215897
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1241,
+            "geometry":{
+                "type":"Point",
+                "adress":"Орск, пр-т Мира, д.15",
+                "coordinates":[
+                    51.230219,
+                    58.4809
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1577,
+            "geometry":{
+                "type":"Point",
+                "adress":"Чусовой г., ул. Мира, д. 17, ТЦ \"Сатурн\", Пермский край",
+                "coordinates":[
+                    58.269898,
+                    57.804091
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1880,
+            "geometry":{
+                "type":"Point",
+                "adress":"Нижнекамск, ул. Менделеева, корпус 2, д. 35 А, ТЦ \"Барс-3\"",
+                "coordinates":[
+                    55.65562,
+                    51.824644
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1527,
+            "geometry":{
+                "type":"Point",
+                "adress":"Нижнекамск, пр-т Химиков, д. 34",
+                "coordinates":[
+                    55.626421,
+                    51.799788
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1664,
+            "geometry":{
+                "type":"Point",
+                "adress":"Набережные Челны, пр-т Мира, д. 65 ТЦ \"Муравейник\"",
+                "coordinates":[
+                    55.747277,
+                    52.412565
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1520,
+            "geometry":{
+                "type":"Point",
+                "adress":"Альметьевск, Ленина, д. 123в",
+                "coordinates":[
+                    54.899364,
+                    52.266364
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1214,
+            "geometry":{
+                "type":"Point",
+                "adress":"Набережные Челны, пр-т Мусы Джалиля, д.58",
+                "coordinates":[
+                    55.687309,
+                    52.305602
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1692,
+            "geometry":{
+                "type":"Point",
+                "adress":"Набережные Челны, пр-т Московский, д.128 А ТЦ \"Тулпар\"",
+                "coordinates":[
+                    55.743598,
+                    52.432786
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1525,
+            "geometry":{
+                "type":"Point",
+                "adress":"Альметьевск, Ленина, д. 2а",
+                "coordinates":[
+                    54.904318,
+                    52.316921
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1171,
+            "geometry":{
+                "type":"Point",
+                "adress":"Стерлитамак, Мира ул., д.24",
+                "coordinates":[
+                    53.616234,
+                    55.958727
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2344,
+            "geometry":{
+                "type":"Point",
+                "adress":"Набережные Челны, Сармановский тракт, д. 48а ТЦ \"Алтын Ай\"",
+                "coordinates":[
+                    55.694606,
+                    52.337528
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1768,
+            "geometry":{
+                "type":"Point",
+                "adress":"Стерлитамак, Худайбердина ул., д. 101, ТСК \"Парк Хаус\"",
+                "coordinates":[
+                    53.632549,
+                    55.923576
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1446,
+            "geometry":{
+                "type":"Point",
+                "adress":"Оренбург, Ленинская ул. , д.39",
+                "coordinates":[
+                    51.76117,
+                    55.104205
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1261,
+            "geometry":{
+                "type":"Point",
+                "adress":"Уфа, Октября пр-т, д.66",
+                "coordinates":[
+                    54.759067,
+                    56.010012
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1267,
+            "geometry":{
+                "type":"Point",
+                "adress":"Уфа, Первомайская ул., д.65/1",
+                "coordinates":[
+                    54.810911,
+                    56.100311
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1266,
+            "geometry":{
+                "type":"Point",
+                "adress":"Уфа, Ак.Королева ул.,д.14",
+                "coordinates":[
+                    54.774452,
+                    56.077475
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1548,
+            "geometry":{
+                "type":"Point",
+                "adress":"Оренбург, ул. Салмышская, д.24",
+                "coordinates":[
+                    51.834937,
+                    55.150351
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1592,
+            "geometry":{
+                "type":"Point",
+                "adress":"Оренбург, Победы пр-т., д. 75",
+                "coordinates":[
+                    51.784142,
+                    55.115874
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1262,
+            "geometry":{
+                "type":"Point",
+                "adress":"Уфа, Первомайская ул., д.54",
+                "coordinates":[
+                    54.811954,
+                    56.0921
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3412,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара Южное шоссе ТРК \"Амбар\"",
+                "coordinates":[
+                    53.113946,
+                    50.166049
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1571,
+            "geometry":{
+                "type":"Point",
+                "adress":"Пенза, Строителей пр-т, д.9, ТЦ \"Олимп\"",
+                "coordinates":[
+                    53.221587,
+                    44.934287
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1263,
+            "geometry":{
+                "type":"Point",
+                "adress":"Уфа, Революционнаяул., д.52",
+                "coordinates":[
+                    54.734165,
+                    55.958907
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":3108,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара, ул. Дыбенко, д.30,ТЦ Космопорт",
+                "coordinates":[
+                    53.207389,
+                    50.197903
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1513,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тольятти, Льва Яшина, ул., д. 14",
+                "coordinates":[
+                    53.544016,
+                    49.360044
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1277,
+            "geometry":{
+                "type":"Point",
+                "adress":"Тольятти, К. Маркса, ул., д. 66",
+                "coordinates":[
+                    53.511992,
+                    49.413889
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2349,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара, Заводское ш., д. 111",
+                "coordinates":[
+                    53.194459,
+                    50.247535
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1275,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара, ул.Победы / 22 Партсъезда, д.77/9",
+                "coordinates":[
+                    53.20693,
+                    50.236441
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1434,
+            "geometry":{
+                "type":"Point",
+                "adress":"Новокуйбышевск, ул.Дзержинского, д.6",
+                "coordinates":[
+                    53.08648,
+                    49.959769
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2343,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара, Московское ш., д. 185а",
+                "coordinates":[
+                    53.248745,
+                    50.220585
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1509,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара, ул.Спортивная, д.3-5",
+                "coordinates":[
+                    53.187246,
+                    50.122301
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2360,
+            "geometry":{
+                "type":"Point",
+                "adress":"Саратов, Торговый проезд, д. 1, ТЦ \"Сиеста\"",
+                "coordinates":[
+                    51.577482,
+                    45.969156
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2261,
+            "geometry":{
+                "type":"Point",
+                "adress":"Сызрань, 50 лет Октября пр-т, д. 51",
+                "coordinates":[
+                    53.120578,
+                    48.402099
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2194,
+            "geometry":{
+                "type":"Point",
+                "adress":"Энгельс, ул.Гагарина д.78",
+                "coordinates":[
+                    56.524074,
+                    52.992211
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2285,
+            "geometry":{
+                "type":"Point",
+                "adress":"Камышин, 3 мкр., 7 А",
+                "coordinates":[
+                    50.095632,
+                    45.422441
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1877,
+            "geometry":{
+                "type":"Point",
+                "adress":"Каменка, ул. Центральная, д. 10",
+                "coordinates":[
+                    53.183841,
+                    43.997758
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1253,
+            "geometry":{
+                "type":"Point",
+                "adress":"Ульяновск, Рябикова ул., д.21б",
+                "coordinates":[
+                    54.285473,
+                    48.303266
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2291,
+            "geometry":{
+                "type":"Point",
+                "adress":"Михайловка, Коммуны ул., д. 107",
+                "coordinates":[
+                    50.071645,
+                    43.238681
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1792,
+            "geometry":{
+                "type":"Point",
+                "adress":"Маркс, ул. Октябрьская, д. 55, ТЦ \"Арбат\"",
+                "coordinates":[
+                    51.705721,
+                    46.754499
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1590,
+            "geometry":{
+                "type":"Point",
+                "adress":"Бугуруслан, Коммунистическая ул., д. 18",
+                "coordinates":[
+                    53.655726,
+                    52.43425
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1276,
+            "geometry":{
+                "type":"Point",
+                "adress":"Самара, ул.Кирова д.48",
+                "coordinates":[
+                    53.211234,
+                    50.264019
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1439,
+            "geometry":{
+                "type":"Point",
+                "adress":"Саранск, Полежаева,ул., д.57",
+                "coordinates":[
+                    54.189972,
+                    45.18419
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1679,
+            "geometry":{
+                "type":"Point",
+                "adress":"Канаш, ул. Свободы, д. 26",
+                "coordinates":[
+                    55.515757,
+                    47.477777
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":2139,
+            "geometry":{
+                "type":"Point",
+                "adress":"Бузулук, пл. Ленина, д. 7",
+                "coordinates":[
+                    52.787288,
+                    52.263354
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1789,
+            "geometry":{
+                "type":"Point",
+                "adress":"Саранск, Гагарина ул., д. 99 А, ТЦ \"Макс\"",
+                "coordinates":[
+                    54.166132,
+                    45.149623
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "balloonContent":"<img src='http://www.centrobuv.ru/themes/default/assets/images/logo.jpg' alt='ЦентрОбувь'>",
+                "clusterCaption":"Еще одна метка",
+                "hintContent":"ЦентрОбувь"
+            },
+            "id":1177,
+            "geometry":{
+                "type":"Point",
+                "adress":"Йошкар-Ола, Красноармейская ул, д.42",
+                "coordinates":[
+                    56.641649,
+                    47.894407
+                ]
+            }
+        }
+    ]
+}
